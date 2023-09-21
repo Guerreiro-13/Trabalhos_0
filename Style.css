@@ -1,0 +1,37 @@
+p{
+
+}
+
+img{
+    height: 100px;
+}
+
+.produto-descricao{
+    /*color: red;
+    font-size: 16 px;
+    background-color: lightgray;*/
+}
+
+.lista-produtos p {
+    color: red;
+    font-size: 16 px;
+    background-color: lightgray;
+}
+
+body{
+    background-color: black;
+    color:white;
+}
+
+#produto3{
+    background-color: green;
+    ;
+}
+
+h1{
+    border: 2px solid white;
+    padding: 20px;
+    margin: 20px;
+    margin: 100px;
+
+}
